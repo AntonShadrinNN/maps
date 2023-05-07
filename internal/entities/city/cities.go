@@ -1,6 +1,7 @@
 package city
 
 type City struct {
+	ID   int64
 	name string
 }
 
